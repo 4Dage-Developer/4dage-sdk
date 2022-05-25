@@ -1,0 +1,1 @@
+var BoxVideo=function(){"use strict";var e=function(e){this.app=e};return function(n){return Alpine.store("BoxVideo",{}),n.Scene.on("loaded",(function(){return new e(n)})),{html:"",name:"BoxVideo",hook:"before"}}}();
